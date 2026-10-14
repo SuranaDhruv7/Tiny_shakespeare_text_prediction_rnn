@@ -1,6 +1,6 @@
 # Next-Word Prediction Using Vanilla RNN
 
-# -- Screenshot
+# Screenshot
 ![Project Screenshot](Image/ss.png)
 
 ## Project Overview
